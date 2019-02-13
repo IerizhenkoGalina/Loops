@@ -20,3 +20,16 @@ for (let counter = 3; counter >= 0; counter--){
 1
 0
 */
+
+let array=[1,2,3,4,5];
+for(let i=0; i<array.length; i++){
+console.log(array[i]);// последовательно перебирает элементы массива
+};
+//Prints:
+/*
+1
+2
+3
+4
+5
+*/
