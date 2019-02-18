@@ -10,7 +10,7 @@ console.log(cityString);
 const firstMessage="I will print!";
 const secondMessage="I will not print!";
 do{
-connsole.log(firstMessage)
+console.log(firstMessage)
 } while(true===false);
 while(true===false){
 console.log(secondMessage)
